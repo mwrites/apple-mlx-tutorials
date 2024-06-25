@@ -10,7 +10,8 @@ conda install -c conda-forge mlx
 
 ### Step By Step Jupyter Notebooks
 
-- [How to use Hugging Face datasets and PyTorch dataloaders with MLX.](./hf_to_mlx_with_pytorch_dataloaders.ipynb)
+- [How To Use HuggingFace Datasets With MLX Streams](./hf_datasets_mlx_streams.ipynb)
+- [How to use PyTorch DataLoaders with MLX](./hf_to_mlx_with_pytorch_dataloaders.ipynb)
 
 
 
