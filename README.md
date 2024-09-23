@@ -12,7 +12,7 @@ conda install -c conda-forge mlx
 
 - [x] [How To Use HuggingFace Datasets With MLX Streams](./hf_datasets_mlx_streams.ipynb)
 - [x] [How to use PyTorch DataLoaders with MLX](./hf_to_mlx_with_pytorch_dataloaders.ipynb)
-- [ ] Trainer + Metrics Template with MLX
+- [x] [Trainer + Metrics Template with MLX](./mlx_trainer.ipynb)
 - [ ] Kaggling with MLX
 - [ ] Making a recommender with MLX
 - [ ] ?
